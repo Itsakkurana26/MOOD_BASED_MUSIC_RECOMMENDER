@@ -1,6 +1,7 @@
 # MOOD_BASED_MUSIC_RECOMMENDER
 Mood based music recommender based on emotion detection using opencv
-✅ Modified Project: Real-Time Emotion-Based Music Recommender
+
+✅ Real-Time Emotion-Based Music Recommender
 
 🎯 Key Modifications
 

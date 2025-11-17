@@ -86,9 +86,4 @@ Choose any of these — easy extensions:
 
 ---
 
-📁 Want me to create this project for you in proper folder structure, with
 
-✔ separate python files
-✔ comments
-✔ readme
-✔ UI version
